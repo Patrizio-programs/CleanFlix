@@ -1,10 +1,10 @@
 {"movies":[
- {
+  {
     "_createdAt": "2022-06-22T08:03:09Z",
     "_id": "0b12a656-9a02-494a-8cc7-63f5c8b442a0",
-    "_rev": "S6NcJ8LE6UwKyiSmUM3bek",
+    "_rev": "SUXf2zuA8SWmD5pCDv5Dup",
     "_type": "movies",
-    "_updatedAt": "2022-06-23T17:05:49Z",
+    "_updatedAt": "2022-07-13T20:20:05Z",
     "description": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",
     "movieName": "Up",
     "poster": {
@@ -16,7 +16,8 @@
     },
     "tags": [
       "Adventure"
-    ]
+    ],
+    "trailer": "https://www.youtube.com/watch?v=HWEW_qTLSEE"
   },
 
   {

@@ -16,6 +16,14 @@ export async function get(){
      const movieDescription = document.createElement('p');
      movieDescription.innerHTML = result.movies[0].description;
      document.querySelector('#movie1-des').appendChild(movieDescription);
+
+     const movieTrailer = document.getElementById('youtube');
+        movieTrailer.href = result.movies[0].trailer;
+
+      
+        
+
+   
  
      //Second Movie (Encanto)
  
@@ -184,6 +192,8 @@ export async function get(){
         const movieDescription13 = document.createElement('p');
         movieDescription13.innerHTML = result.movies[12].description;
         document.querySelector('#movie13-des').appendChild(movieDescription13);
+
+        
 
         //Fourteenth Movie
 
