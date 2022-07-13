@@ -172,6 +172,34 @@ export async function get(){
      document.querySelector('#movie12-des').appendChild(movieDescription12);
  
      //Thirteenth Movie
+
+        const movieImage13 = document.createElement('img');
+        movieImage13.src = 'https://cdn.sanity.io/images/dt5nrqzl/production/f2435f35f8a395b0072f0b67fe2617f227837dc1-2000x3000.jpg';
+        document.querySelector('#img13').appendChild(movieImage13);
+
+        const movieName13 = document.createElement('h1');
+        movieName13.innerHTML = result.movies[12].movieName
+        document.querySelector('#movie13-des').appendChild(movieName13);
+
+        const movieDescription13 = document.createElement('p');
+        movieDescription13.innerHTML = result.movies[12].description;
+        document.querySelector('#movie13-des').appendChild(movieDescription13);
+
+        //Fourteenth Movie
+
+        const movieImage14 = document.createElement('img');
+        movieImage14.src = 'https://cdn.sanity.io/images/dt5nrqzl/production/122322319c5ea5a2a1c85e8e1f4ba3b8f198cd47-1382x2048.jpg';
+        document.querySelector('#img14').appendChild(movieImage14);
+
+        const movieName14 = document.createElement('h1');
+        movieName14.innerHTML = result.movies[13].movieName
+        document.querySelector('#movie14-des').appendChild(movieName14);
+
+        const movieDescription14 = document.createElement('p');
+        movieDescription14.innerHTML = result.movies[13].description;
+        document.querySelector('#movie14-des').appendChild(movieDescription14);
+
+        //Fifteenth Movie
  
     
 }
