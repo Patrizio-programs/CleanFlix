@@ -1,4 +1,5 @@
 {"movies":[
+  
   {
     "_createdAt": "2022-06-22T08:03:09Z",
     "_id": "0b12a656-9a02-494a-8cc7-63f5c8b442a0",
@@ -21,31 +22,32 @@
   },
 
   {
-  "_createdAt": "2022-06-22T16:40:49Z",
-  "_id": "1b469e41-d24c-49f6-9e3f-bb65e20a9ec0",
-  "_rev": "OrQ6z7w0WB8N4bm29wY8Ei",
-  "_type": "movies",
-  "_updatedAt": "2022-06-22T16:40:49Z",
-  "description": "A Colombian teenage girl has to face the frustration of being the only member of her family without magical powers.",
-  "movieName": "Encanto",
-  "poster": {
-    "_type": "image",
-    "asset": {
-      "_ref": "image-6ee05d2a75dbfecc1e6faef562b88505fb7a2e27-540x810-jpg",
-      "_type": "reference"
-    }
+    "_createdAt": "2022-06-22T16:40:49Z",
+    "_id": "1b469e41-d24c-49f6-9e3f-bb65e20a9ec0",
+    "_rev": "Orz9bWpVmmKiNXJwM1e3xh",
+    "_type": "movies",
+    "_updatedAt": "2022-07-13T20:57:21Z",
+    "description": "A Colombian teenage girl has to face the frustration of being the only member of her family without magical powers.",
+    "movieName": "Encanto",
+    "poster": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-6ee05d2a75dbfecc1e6faef562b88505fb7a2e27-540x810-jpg",
+        "_type": "reference"
+      }
+    },
+    "tags": [
+      "recent"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=CaimKeDcudo"
   },
-  "tags": [
-    "recent"
-  ]
-},
 
-{
+  {
     "_createdAt": "2022-06-21T14:22:42Z",
     "_id": "63c7ed6a-0c1c-4452-8e81-f834f841a548",
-    "_rev": "S6NcJ8LE6UwKyiSmUM1PT0",
+    "_rev": "SUXf2zuA8SWmD5pCDv9vWh",
     "_type": "movies",
-    "_updatedAt": "2022-06-23T16:35:07Z",
+    "_updatedAt": "2022-07-13T20:57:45Z",
     "description": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
     "movieName": "Toy Story",
     "poster": {
@@ -57,15 +59,37 @@
     },
     "tags": [
       "Adventure"
-    ]
+    ],
+    "trailer": "https://www.youtube.com/watch?v=rNk1Wi8SvNc"
+  },
+
+  {
+    "_createdAt": "2022-07-13T19:29:21Z",
+    "_id": "fb324ae8-f3cf-47ca-8423-b859afe2f653",
+    "_rev": "Orz9bWpVmmKiNXJwM1e6h3",
+    "_type": "movies",
+    "_updatedAt": "2022-07-13T20:58:11Z",
+    "description": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+    "movieName": "How to Train Your Dragon",
+    "poster": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-f2435f35f8a395b0072f0b67fe2617f227837dc1-2000x3000-jpg",
+        "_type": "reference"
+      }
+    },
+    "tags": [
+      "adventure"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=oKiYuIsPxYk"
   },
 
   {
     "_createdAt": "2022-06-22T16:01:16Z",
     "_id": "2d5e22cc-eaa7-46b1-b908-e29a36e9d1c3",
-    "_rev": "OrQ6z7w0WB8N4bm2A2SP9w",
+    "_rev": "SUXf2zuA8SWmD5pCDv9yWt",
     "_type": "movies",
-    "_updatedAt": "2022-06-23T16:34:08Z",
+    "_updatedAt": "2022-07-13T20:58:29Z",
     "description": "A troubled child summons the courage to help a friendly alien escape from Earth and return to his home planet.",
     "movieName": "E.T",
     "poster": {
@@ -78,33 +102,34 @@
     "tags": [
       "recent",
       "Adventure"
-    ]
+    ],
+    "trailer": "https://www.youtube.com/watch?v=qYAETtIIClk"
   },
 
   {
-    "_createdAt": "2022-06-22T07:51:00Z",
-    "_id": "cd5dc7af-c497-4d15-b15b-14454cb196ac",
-    "_rev": "OrQ6z7w0WB8N4bm29uQe1c",
+    "_id": "drafts.cd5dc7af-c497-4d15-b15b-14454cb196ac",
     "_type": "movies",
-    "_updatedAt": "2022-06-22T07:51:00Z",
+    "_createdAt": "2022-06-22T07:51:00Z",
     "description": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
-    "genre": "Adventure",
     "movieName": "Finding Nemo",
     "poster": {
       "_type": "image",
       "asset": {
-        "_ref": "image-f457ae322ef016811550f5888d466df8322c6897-261x380-jpg",
+        "_ref": "image-9c9321a22c3add8ca812593a3a045572bd20be70-800x1425-jpg",
         "_type": "reference"
       }
-    }
+    },
+    "trailer": "https://www.youtube.com/watch?v=2zLkasScy7A",
+    "_rev": "n9u1q5-ddj-p7m-ntm-u9je1xqew",
+    "_updatedAt": "2022-07-14T11:48:44.018Z"
   },
 
   {
     "_createdAt": "2022-06-23T16:40:35Z",
     "_id": "83a504a4-e96c-4b3f-b759-e884836824e8",
-    "_rev": "fEO11EA0NM7P8KkaWJa2nX",
+    "_rev": "SUXf2zuA8SWmD5pCDvA1L9",
     "_type": "movies",
-    "_updatedAt": "2022-06-23T17:09:48Z",
+    "_updatedAt": "2022-07-13T20:59:37Z",
     "description": "After landing the gig of a lifetime, a New York jazz pianist suddenly finds himself trapped in a strange land between Earth and the afterlife.",
     "movieName": "Soul",
     "poster": {
@@ -115,16 +140,17 @@
       }
     },
     "tags": [
-      ""
-    ]
+      "Adventure"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=xOsLIiBStEs"
   },
 
   {
     "_createdAt": "2022-06-22T07:58:08Z",
     "_id": "a69f80f9-7fc0-4056-b453-711450158e33",
-    "_rev": "S6NcJ8LE6UwKyiSmULcKy2",
+    "_rev": "Orz9bWpVmmKiNXJwM1eD4D",
     "_type": "movies",
-    "_updatedAt": "2022-06-23T10:39:22Z",
+    "_updatedAt": "2022-07-13T20:59:58Z",
     "description": "Determined to make her own path in life, Princess Merida defies a custom that brings chaos to her kingdom. Granted one wish, Merida must rely on her bravery and her archery skills to undo a beastly curse.",
     "movieName": "Brave",
     "poster": {
@@ -136,17 +162,17 @@
     },
     "tags": [
       "Adventure"
-    ]
+    ],
+    "trailer": "https://www.youtube.com/watch?v=TEHWDA_6e3M"
   },
 
   {
     "_createdAt": "2022-06-22T07:54:00Z",
     "_id": "f5c76954-369d-4331-b648-12022f0cc94d",
-    "_rev": "fEO11EA0NM7P8KkaWByNui",
+    "_rev": "Orz9bWpVmmKiNXJwM1eIwK",
     "_type": "movies",
-    "_updatedAt": "2022-06-22T07:54:00Z",
+    "_updatedAt": "2022-07-13T21:01:19Z",
     "description": "Emperor Kuzco is turned into a llama by his ex-administrator Yzma, and must now regain his throne with the help of Pacha, the gentle llama herder.",
-    "genre": "Adventure",
     "movieName": "The Emperor's New Groove",
     "poster": {
       "_type": "image",
@@ -154,15 +180,19 @@
         "_ref": "image-513005ba58d3390ec4d17a355167a7360fc7f3c8-1000x1409-jpg",
         "_type": "reference"
       }
-    }
+    },
+    "tags": [
+      "Adventure"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=JX6btxoFhI8"
   },
 
   {
     "_createdAt": "2022-06-23T16:41:35Z",
     "_id": "8df4e6e2-a501-4436-ba5d-82480d610058",
-    "_rev": "fEO11EA0NM7P8KkaWJRvWp",
+    "_rev": "mPffP9TK9zgflSiSa38zj7",
     "_type": "movies",
-    "_updatedAt": "2022-06-23T16:42:59Z",
+    "_updatedAt": "2022-07-13T21:01:46Z",
     "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
     "movieName": "Lion King",
     "poster": {
@@ -188,94 +218,38 @@
     },
     "tags": [
       "Adventure"
-    ]
+    ],
+    "trailer": "https://www.youtube.com/watch?v=lFzVJEksoDY"
   },
 
   {
     "_createdAt": "2022-06-22T17:09:33Z",
     "_id": "a869d22e-fcf5-4811-9757-a62511ce6f8a",
-    "_rev": "fEO11EA0NM7P8KkaWJZTLP",
+    "_rev": "Orz9bWpVmmKiNXJwM1eQuH",
     "_type": "movies",
-    "_updatedAt": "2022-06-23T17:04:02Z",
+    "_updatedAt": "2022-07-13T21:02:57Z",
     "description": "The quiet life of a terrier named Max is upended when his owner takes in Duke, a stray whom Max instantly dislikes.",
     "movieName": "Secret life of Pets",
     "poster": {
       "_type": "image",
       "asset": {
-        "_ref": "image-a4d8c99d31bdb167209667c7202fa5d0a2b58da0-183x275-jpg",
+        "_ref": "image-73e56d9ad5e2f32b53dea51dd5fc212348e6ac60-1920x2560-jpg",
         "_type": "reference"
       }
     },
     "tags": [
       "recent",
       "Comedy"
-    ]
-  },
-
-  {
-    "_createdAt": "2022-06-21T17:22:45Z",
-    "_id": "fe0d0244-61b4-4020-8885-25c587427183",
-    "_rev": "S6NcJ8LE6UwKyiSmUJCJas",
-    "_type": "movies",
-    "_updatedAt": "2022-06-21T17:22:45Z",
-    "description": "When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.",
-    "genre": "Adventure",
-    "movieName": "Frozen",
-    "poster": {
-      "_type": "image",
-      "asset": {
-        "_ref": "image-a2111ea80312859ee0c982c1bde3da39cc5f4b5a-1382x2048-jpg",
-        "_type": "reference"
-      }
-    }
-  },
-
-  {
-    "_createdAt": "2022-06-22T16:53:18Z",
-    "_id": "5ebfaeee-6057-483a-8a5e-7021df1b58ac",
-    "_rev": "OrQ6z7w0WB8N4bm29weJfI",
-    "_type": "movies",
-    "_updatedAt": "2022-06-22T16:53:18Z",
-    "description": "While spending years attempting to return home, marooned Space Ranger Buzz Lightyear encounters an army of ruthless robots commanded by Zurg who are attempting to steal his fuel source.",
-    "movieName": "Lightyear",
-    "poster": {
-      "_type": "image",
-      "asset": {
-        "_ref": "image-3a78d778caef23376209cea554a21d6ba774fca3-770x1100-jpg",
-        "_type": "reference"
-      }
-    },
-    "tags": [
-      "recent"
-    ]
-  },
-
-  {
-    "_createdAt": "2022-07-13T19:29:21Z",
-    "_id": "fb324ae8-f3cf-47ca-8423-b859afe2f653",
-    "_rev": "mPffP9TK9zgflSiSa30gnd",
-    "_type": "movies",
-    "_updatedAt": "2022-07-13T19:29:21Z",
-    "description": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
-    "movieName": "How to Train Your Dragon",
-    "poster": {
-      "_type": "image",
-      "asset": {
-        "_ref": "image-f2435f35f8a395b0072f0b67fe2617f227837dc1-2000x3000-jpg",
-        "_type": "reference"
-      }
-    },
-    "tags": [
-      "adventure"
-    ]
+    ],
+    "trailer": "https://www.youtube.com/watch?v=i-80SGWfEjM"
   },
 
   {
     "_createdAt": "2022-07-13T19:29:29Z",
     "_id": "79bb97ba-dc4e-4be1-9bee-6d0d4e1d2767",
-    "_rev": "SUXf2zuA8SWmD5pCDv050V",
+    "_rev": "mPffP9TK9zgflSiSa394vr",
     "_type": "movies",
-    "_updatedAt": "2022-07-13T19:38:55Z",
+    "_updatedAt": "2022-07-13T21:03:32Z",
     "description": "When Hiccup and Toothless discover an ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace.",
     "movieName": "How to Train Your Dragon 2",
     "poster": {
@@ -287,7 +261,50 @@
     },
     "tags": [
       "Adventure"
-    ]
+    ],
+    "trailer": "https://www.youtube.com/watch?v=2BP38770KNo"
+  },
+
+  {
+    "_createdAt": "2022-06-21T17:22:45Z",
+    "_id": "drafts.fe0d0244-61b4-4020-8885-25c587427183",
+    "_rev": "z4bjpy-zcu-0tv-oqd-hodnxlicm",
+    "_type": "movies",
+    "_updatedAt": "2022-07-13T21:04:22Z",
+    "description": "When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.",
+    "movieName": "Frozen",
+    "poster": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-a2111ea80312859ee0c982c1bde3da39cc5f4b5a-1382x2048-jpg",
+        "_type": "reference"
+      }
+    },
+    "tags": [
+      "Adventure"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=TbQm5doF_Uc"
+  },
+
+  {
+    "_createdAt": "2022-06-22T16:53:18Z",
+    "_id": "5ebfaeee-6057-483a-8a5e-7021df1b58ac",
+    "_rev": "mPffP9TK9zgflSiSa397kD",
+    "_type": "movies",
+    "_updatedAt": "2022-07-13T21:05:01Z",
+    "description": "While spending years attempting to return home, marooned Space Ranger Buzz Lightyear encounters an army of ruthless robots commanded by Zurg who are attempting to steal his fuel source.",
+    "movieName": "Lightyear",
+    "poster": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-3a78d778caef23376209cea554a21d6ba774fca3-770x1100-jpg",
+        "_type": "reference"
+      }
+    },
+    "tags": [
+      "recent"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=BwZs3H_UN3k"
   }
 
 ]}
