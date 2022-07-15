@@ -24,7 +24,7 @@ export async function get(){
 
    
  
-     //Second Movie (Encanto)
+     //Second Movie ()
  
      const movieImage2 = document.createElement('img');
      movieImage2.src = "https://cdn.sanity.io/images/dt5nrqzl/production/6ee05d2a75dbfecc1e6faef562b88505fb7a2e27-540x810.jpg";
@@ -41,7 +41,7 @@ export async function get(){
        const movieTrailer2 = document.getElementById('youtube2');
          movieTrailer2.href = result.movies[1].trailer;
  
-     //Third Movie (Toy Story)
+     //Third Movie ()
  
      const movieImage3 = document.createElement('img');
      movieImage3.src = "https://cdn.sanity.io/images/dt5nrqzl/production/61c74d7431e876c37b5f7fafd08b54c82e3540fb-1000x1500.jpg";
@@ -58,7 +58,7 @@ export async function get(){
          const movieTrailer3 = document.getElementById('youtube3');
          movieTrailer3.href = result.movies[2].trailer;
  
-     //Fourth Movie (Dragon)
+     //Fourth Movie ()
  
      const movieImage4 = document.createElement('img');
      movieImage4.src = "https://cdn.sanity.io/images/dt5nrqzl/production/f2435f35f8a395b0072f0b67fe2617f227837dc1-2000x3000.jpg";
@@ -92,7 +92,7 @@ export async function get(){
          const movieTrailer5 = document.getElementById('youtube5');
          movieTrailer5.href = result.movies[4].trailer;
  
-     //Sixth Movie (Soul)
+     //Sixth Movie ()
  
      const movieImage6 = document.createElement('img');
      movieImage6.src = "https://cdn.sanity.io/images/dt5nrqzl/production/9c9321a22c3add8ca812593a3a045572bd20be70-800x1425.jpg";
@@ -109,7 +109,7 @@ export async function get(){
          const movieTrailer6 = document.getElementById('youtube6');
          movieTrailer6.href = result.movies[5].trailer;
  
-     //Seventh Movie (Brave)
+     //Seventh Movie ()
  
      const movieImage7 = document.createElement('img');
      movieImage7.src = "https://cdn.sanity.io/images/dt5nrqzl/production/d88f572cedaeb1a182e1bae203768f344900bb3d-940x1495.png";
@@ -141,7 +141,7 @@ export async function get(){
  
          const movieTrailer8 = document.getElementById('youtube8');
          movieTrailer8.href = result.movies[7].trailer;
-     //Ninth Movie (Lion King)
+     //Ninth Movie ()
  
      const movieImage9 = document.createElement('img');
      movieImage9.src = "https://cdn.sanity.io/images/dt5nrqzl/production/513005ba58d3390ec4d17a355167a7360fc7f3c8-1000x1409.jpg";
@@ -157,7 +157,7 @@ export async function get(){
  
          const movieTrailer9 = document.getElementById('youtube9');
          movieTrailer9.href = result.movies[8].trailer;
-     //Tenth Movie (Secret life of Pets)
+     //Tenth Movie ()
  
      const movieImage10 = document.createElement('img');
      movieImage10.src = "https://cdn.sanity.io/images/dt5nrqzl/production/af59b34bbc01199572a812b7cd52e9be9bd7d519-1000x1426.jpg";
